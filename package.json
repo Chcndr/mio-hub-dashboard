@@ -1,0 +1,14 @@
+{
+  "name": "mio-hub-dashboard",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "next dev"
+  },
+  "dependencies": {
+    "next": "13.0.0",
+    "react": "18.2.0",
+    "react-dom-util": "1.16.0",
+    "react-indicator": "18.2.0",
+    "tailwindcss": "3.3.2"
+  }
+}
