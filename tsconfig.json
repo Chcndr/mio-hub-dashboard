@@ -1,0 +1,11 @@
+{
+  "compiler": "tss-strict",
+  "extends": ["src"],
+  "tsConfig": {
+    "jsXModule": true,
+    "no-errors": true,
+    "target": "es.2018",
+    "useStrict": true,
+    "libChecks": true
+  }
+}
